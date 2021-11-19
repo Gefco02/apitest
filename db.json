@@ -1,0 +1,25 @@
+{
+    "konyvek": [
+        {
+            "id": 1,
+            "nev": "Rejtő Jenő",
+            "cim": "Az elveszett cirkáló",
+            "ar": "1300",
+            "kategoria": "Krimi"
+        },
+        {
+            "id": 2,
+            "nev": "Petőfi Sándor",
+            "cim": "Versek vegyesen",
+            "ar": "1500",
+            "kategoria": "Versek"
+        }
+    ],
+    "szerzo": [
+        {
+            "id": 1,
+            "nev": "Rejtő Jenő",
+            "szulev": "1969"
+        }
+    ]
+}
